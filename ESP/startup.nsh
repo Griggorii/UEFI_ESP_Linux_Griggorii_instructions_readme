@@ -1,0 +1,1 @@
+\EFI\ubuntu\grubx64.efi

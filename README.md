@@ -25,3 +25,7 @@ set prefix=($root)'/boot/grub'
 configfile $prefix/grub.cfg
 
 После этого ваш линукс будет загружаться в uefi
+
+https://www.youtube.com/watch?v=PAwkfQVyq80  т.е если вы меняете путь загрузчика то правьте путь ну допустим вам не нравиться 
+папка ubuntu то переименуйте её в linux  потом самое главное недооцененный фаил startup.nsh открываем в блокноте и правим путь
+до grubx64.efi
